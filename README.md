@@ -1,4 +1,7 @@
 Grupobrand
 ==========
 
-HTML5
+-HTML5
+-Responsive Design
+-Jquery: Lightbox
+-Css3
